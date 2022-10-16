@@ -1,0 +1,15 @@
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\dal.dll
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\dal.pdb
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\bal.dll
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\bal.pdb
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\obj\Debug\dal.csproj.AssemblyReference.cache
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\obj\Debug\dal.csproj.CopyComplete
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\obj\Debug\dal.dll
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\obj\Debug\dal.pdb
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\dal.dll.config
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\EntityFramework.dll
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\bal.dll.config
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\EntityFramework.xml
+C:\Users\Karthiga\source\repos\FinalProj2 phase2\dal\bin\Debug\EntityFramework.SqlServer.xml
